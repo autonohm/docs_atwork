@@ -7,13 +7,12 @@ We are trying to keep this up-to-date as best as possible.
 
 ## Robot Image
 
-
-
+![](https://github.com/autonohm/docs_atwork/blob/main/images/ohmnibot_arena.jpg)
 
 ## Software Communication Diagram
 
-
+![](https://github.com/autonohm/docs_atwork/blob/main/images/software_com_overview.PNG)
 
 ## Task Executioner Example
 
-
+![](https://github.com/autonohm/docs_atwork/blob/main/images/example_states.PNG)
