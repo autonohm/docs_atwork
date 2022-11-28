@@ -1,7 +1,7 @@
 # docs_atwork
 
 This repository contains knowledge gathered and prepared for you to consume.
-We hope that it helps you understand the basics/methods of robotics required to participate in RoboCup@Work competitions.
+We hope that it helps you understand the basics/methods of robotics required to participate in [RoboCup@Work](https://atwork.robocup.org/) competitions.
 You can find a lot of docs, files and links in this repository which we are trying to keep up-to-date as best as possible.
 
 We are aware that some docs are in german language only. 
