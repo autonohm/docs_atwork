@@ -10,6 +10,16 @@ We suggest you using [DeepL](https://www.deepl.com/translator) to translate them
 We will NOT share our source code but are happy to answer your questions.
 Robocup is about learning and understanding robotics, we don't want to hand out free shortcuts.
 
+## Document Overview
+
+| Document Name  | Topic  |
+|---|---|
+| Masterarbeit_Masannek  | System Architecture & Task Management
+| Masterarbeit_DAM  | Laser Localization  |
+| Projektarbeit ... base  | Hardware Description of our current Base Platform  |
+| Projektarbeit ... head  | Hardware Desciption of our All-In-One-Sensorhead |
+
+
 ## Useful Links
 
 1. Check out [our Repo](https://github.com/autonohm/synthetic_data_generation) for synthetic data creation of training images for neural networks.
